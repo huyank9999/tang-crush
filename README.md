@@ -27,5 +27,3 @@ const CONFIG = {
     messLink: 'https://m.me/huy.8888888'
 }
 ```
-
-![Screenshot_2021-07-01-00-47-27](https://user-images.githubusercontent.com/86744854/124032538-e2939c80-da22-11eb-8f1b-a27338c95428.png)
