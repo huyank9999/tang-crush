@@ -3,7 +3,7 @@
 
 Liên lạc: 0355098437
 [![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/huy.8888888)
-[![Tiktok](https://i.imgur.com/Nbfl1E7t.jpg)](https://www.tiktok.com/@huy77777778)
+[![Tiktok](https://i.imgur.com/Nbfl1E7t.jpg)](https://www.tiktok.com/@huymilo99)
 
 Mở file config.js sửa nội dung theo mẫu
 ```
