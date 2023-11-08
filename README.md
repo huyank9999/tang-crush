@@ -1,29 +1,239 @@
-# Tặng Crush
-## _Một điều nho nhỏ tỏ tình với crush_
+<!DOCTYPE HTML>
 
-Liên lạc: 0355098437
-[![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/huy.8888888)
-[![Tiktok](https://i.imgur.com/Nbfl1E7t.jpg)](https://www.tiktok.com/@huymilo99)
+<html>
 
-Mở file config.js sửa nội dung theo mẫu
-```
-const CONFIG = {
-    introTitle: 'HươNG à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh nhé :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me/huy.8888888'
+<head>
+
+   <meta http-equiv="content-type" content="text/html" />
+
+   <meta name="author" content="Quyet" />
+
+   <title>Web Key Free</title>
+
+   <meta charset="utf-8">
+
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <meta name="MobileOptimized" content="320">
+
+        <meta http-equiv="content-language" content="vi" />
+
+<meta name="copyright" content="Nguyễn Thế Quyết" />
+
+<meta name="author" content="Nguyễn Thế Quyết" />
+
+<meta name="robots" content="index, follow" />
+
+<meta name="revisit-after" content="1 days" />
+
+<meta http-equiv="content-language" content="vi" />
+
+<meta property="og:type" content="website" />
+
+<style>
+
+    body { width:100%;
+
+    height: 100%;
+
+    background-image: url("background.jpg");
+
+    background-position: center;
+
+    background-size: 100% 100%;
+
+    background-repeat: no-repeat;}
+
+
+
+    </style>
+
+</head>
+
+
+
+<body>
+
+    
+
+    <h1 style="color: rgb(204, 199, 221)" style = "font-family:Arial, Helvetica, sans-serif"></h1style>                              Web Và Tool Thuộc Quyền Của NQH 5.0 (Nguyễn Quang Huy)</h1>
+
+    <h2 class="text-white mb-4"><span style="color: rgb(204, 199, 221)" class="d-block" style = "font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif">                Chúc Mừng Bạn Đã Vượt Key Thành Công!!!</span></h2>
+
+    <h2 class="text-white mb-4"><span style="color: rgb(204, 199, 221)" class="d-block">                Cảm Ơn Bạn Đã Sử Dụng Tool Của Chúng Tôi Chúc Các Bạn Sử Dụng Tool Vui Vẻ</span></h2>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+    <br>
+
+
+
+   </div>
+
+
+
+
+
+  <div class="form">
+
+        <div>
+
+            <h3 style="color: rgb(204, 199, 221)" align="center">CLICK VÀO Ô BÊN DƯỚI SẼ TỰ ĐỘNG SAO CHÉP KEY</h3><div><br /></div>
+
+            <p>
+
+                <button class="button" name="submit" onclick="copyToClipboard('#keytool')" type="submit">
+
+                    <span id="keytool">BẠN CHƯA LẤY KEY</span>
+
+                </button>
+
+            </p>
+
+        </div>
+
+    </div>
+
+    
+
+<style>
+
+.button {
+
+    background-color: #4c56af;
+
+    width: 100%;
+
+    border: none;
+
+    color: white;
+
+    padding: 15px 32px;
+
+    text-align: center;
+
+    text-decoration: none;
+
+    display: inline-block;
+
+    font-size: 16px;
+
+    border-radius: 15px;
+
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.25),
+
+            2px 2px 2px rgba(0, 0, 0, 0.25),
+
+            inset 2px 2px 4px rgba(255, 255, 255, 0.5),
+
+            inset 2px 2px 6px rgba(255, 255, 255, 0.2),
+
+            inset -1px -1px 6px rgba(218, 218, 218, 0.75);
+
 }
-```
+
+</style>    
+
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+  
+
+    <script>
+
+      	var key = GetURLParameter('key');
+
+      	if(key != ""){
+
+	        document.getElementById("keytool").innerHTML = key;
+
+        }
+
+      
+
+        function GetURLParameter(sParam) {
+
+            var sPageURL = window.location.search.substring(1);
+
+            var sURLVariables = sPageURL.split('&');
+
+            for (var i = 0; i < sURLVariables.length; i++) {
+
+                var sParameterName = sURLVariables[i].split('=');
+
+                if (sParameterName[0] == sParam) {
+
+                    return sParameterName[1];
+
+                }
+
+            }
+
+        }
+
+        function copyToClipboard(element) {
+
+            var $temp = $("<input>");
+
+            $("body").append($temp);
+
+            $temp.val($(element).text()).select();
+
+            document.execCommand("copy");
+
+            $temp.remove();
+
+            
+
+            return confirm('Bạn đã copy key');
+
+        }
+
+    </script>
+
+</body>
+
+</html>
